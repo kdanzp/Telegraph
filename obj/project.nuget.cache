@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K6QJaQ8KJYL8t4iSGzlZCq7nKIYmbTilSRJ0OAAdFTtxwThhuzvazLzlOC7zY8Mr1xRCn6diUGbAFLShCjCBGQ==",
+  "success": true,
+  "projectFilePath": "D:\\2 Zenno Конкурсы\\12 конкурс шаблонов\\Telegraf\\Telegraf\\Telegraf\\Telegraf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.2\\microsoft.netframework.referenceassemblies.net462.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

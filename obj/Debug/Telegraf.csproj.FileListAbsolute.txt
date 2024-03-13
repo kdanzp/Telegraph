@@ -1,0 +1,6 @@
+D:\2 Zenno Конкурсы\12 конкурс шаблонов\Telegraf\Telegraf\Telegraf\obj\Debug\Telegraf.csproj.AssemblyReference.cache
+D:\2 Zenno Конкурсы\12 конкурс шаблонов\Telegraf\Telegraf\Telegraf\obj\Debug\Telegraf.csproj.CoreCompileInputs.cache
+D:\2 Zenno Конкурсы\12 конкурс шаблонов\Telegraf\Telegraf\Telegraf\bin\Debug\Telegraph.dll
+D:\2 Zenno Конкурсы\12 конкурс шаблонов\Telegraf\Telegraf\Telegraf\bin\Debug\Telegraph.pdb
+D:\2 Zenno Конкурсы\12 конкурс шаблонов\Telegraf\Telegraf\Telegraf\obj\Debug\Telegraph.dll
+D:\2 Zenno Конкурсы\12 конкурс шаблонов\Telegraf\Telegraf\Telegraf\obj\Debug\Telegraph.pdb
